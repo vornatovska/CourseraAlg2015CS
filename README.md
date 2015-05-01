@@ -1,63 +1,22 @@
-﻿Project name name:
+﻿Instruction for project
+--
+
+0. Fork this project and create your folder with similar structure, send merge request in deadlines
+1. Project structure template could not be changed! 
+2. All TODO must be changed to yours data!
+3. Read project manual (in docs folder)
+4. All illustration must be in separate files (images folder)
+5. Topics for description in thesis are: software design patterns, OOP, C++ 11.
+6. Required UML Diagrams: Use Case Diagram, Class Diagram (Lectures 1-3)
+http://www.intuit.ru/studies/courses/480/336/info  
+7. Recommended IDE  
+http://eclipse.org/cdt/  
+http://www.codeblocks.org/  
+
+Additional:  
+For high marks, you shoud use one of the frameworks:
+http://www.webtoolkit.eu/wt  
+http://cppcms.com/wikipp/en/page/main  
+http://www.micronovae.com/CSP.html  
  
---
 
-Author members:
-TODO
-
---
-Academic Group: 
-СН-21
-
-semester 4
-
---
-University: 
-Ternopil Ivan Pul’uj National Technical University
-
-Academic year:
-2014/2015
-
-Faculty: 
-Computer Information Systems and Software Engineering
-
-Field of study: 
-6.050101 Computer Sciences
-
-Speciality 7.05010101, 8.05010101 
-Information Management Systems and Technologies
- 
---
-Learning materials
-
-Course 
-Object-oriented programming (OOP)
-http://www.cppinstitute.org/
-
-Course name: 
-CPA C++ Certified Associate Programmer 
-
-Course name: 
-CPP C++ Certified Professional Programmer 
-
---
-
-Course
-Theory of Algorithms (TA)
-
-Course name:
-Algorithms, Part I
-https://www.coursera.org/course/algs4partI
-
-Course name:
-Розробка та аналіз алгоритмів. Частина 1
-
-http://edx.prometheus.org.ua/courses/KPI/Algorithms101/2015_Spring/about
-
---
-
-
-IDE
-Eclipse IDE
-
-https://www.eclipse.org/downloads/
