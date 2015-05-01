@@ -1,6 +1,6 @@
 #include<fstream>
 #include"utils.h"
-#include"Student.h" 
+#include"Student.h"
 #include"parser.h"
 #include"global.h"
 #include"loader.h"
@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-	vector<Student> tmpArray = Loader::LoadStudentsDB("d:\\students.txt"); //диск d, 
+	vector<Student> tmpArray = Loader::LoadStudentsDB("students.txt"); //диск d,
 
 	string tmpLine = "............................................................................\n";
 	string downLine ="____________________________________________________________________________\n";
@@ -21,7 +21,7 @@ int main()
 	cout<< tmpLine;
 	for(int i=0;i<tmpArray.size();i++)
 	{
-		cout << right << setw(3) <<i + 1 
+		cout << right << setw(3) <<i + 1
 			<< " " << left <<setw(37) << tmpArray[i].Name()
 			<< tmpArray[i].GetMiddleRate() << '\n';
 	}
@@ -91,7 +91,7 @@ int main()
 	cout << downLine;
 	cout<<"session complete: \n";
 	cout<< tmpLine;
-	
+
 	for(int i=0;i<sesCompl.size();i++)
 		cout<<setw(40)<<sesCompl[i].Name()<<" "<<sesCompl[i].GetMiddleRate()<<endl;
 
@@ -101,7 +101,7 @@ int main()
 	cout << downLine;
 	cout<<"session not complete: \n";
 	cout<< tmpLine;
-	
+
 	for(int i=0;i<sesNonCompl.size();i++)
 		cout << setw(40)<<sesNonCompl[i].Name() << " " << sesNonCompl[i].GetMiddleRate() << endl;
 
