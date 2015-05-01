@@ -1,9 +1,10 @@
 ﻿Instruction for project
 --
 
-0. Fork this project and create your folder with similar structure, send merge request in deadlines
+0. Fork this project and create your folder with similar structure, send merge request in deadlines.
+0.1. Merge request to __develop__ branch
 1. Project structure template could not be changed! 
-2. All TODO must be changed to yours data!
+2. All TODO must be changed to your data!
 3. Read project manual (in docs folder)
 4. All illustration must be in separate files (images folder)
 5. Topics for description in thesis are: software design patterns, OOP, C++ 11.
