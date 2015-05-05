@@ -6,7 +6,7 @@ Student::Student(string _name, vector<int> _rate)
 {
 	this->name = _name;
 	this->rate = _rate;
-}
+} 
 
 //вивід рейтингу по вказаному предмету
 int Student::GetRateOfTraining(int trainingIndex)
