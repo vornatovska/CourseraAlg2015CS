@@ -4,7 +4,7 @@ Project name:
 
 Author members: Dobryvoda Nataliia
 
-— Academic Group: CN-21
+— Academic Group: CS-21
 
 semester 4
 
@@ -34,6 +34,6 @@ http://edx.prometheus.org.ua/courses/KPI/Algorithms10..
 
 --
 
-IDE Eclipse IDE
+IDE Visual Studio IDE
 
-https://www.eclipse.org/downloads/
+https://www.visualstudio.com/
