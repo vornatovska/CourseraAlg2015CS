@@ -1,5 +1,6 @@
 ﻿Instruction for project
 --
+!!! Don't delete files and folders in main Project!!!
 
 0. Fork this project and create your folder with similar structure, send merge request in deadlines.
 0.1. Merge request to __develop__ branch
