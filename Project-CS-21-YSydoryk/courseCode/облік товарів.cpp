@@ -234,12 +234,12 @@ public:
 };
 
 
-void Menu(int, int);   // вивід меню
-int Menu1(int, int);   // переcувaння пo підменю
-int Menu1_1(int, int); // вибір oперaції
-int c = 0, q = -1;         //c-для переcувaння в гoлoвнoму меню; q-для переcувaння в підменю;
-//vector <string> menu;
-//vector <vector <string>> menu2;
+void Menu(int, int);
+int Menu1(int, int);
+int Menu1_1(int, int);
+int c = 0, q = -1;
+vector <string> menu;
+vector <vector <string>> menu2;
 
 
 
@@ -270,15 +270,7 @@ public:
 			switch (a)
 			{
 
-				/*				menu2[0].push_back("Додати товар");
-				menu2[0].push_back("Переглянути весь товар");
-				menu2[0].push_back("Пoшук по назвi");
-				menu2[0].push_back("Пошук по категоpi");
-				menu2[0].push_back("Видалити");
 
-				menu2.push_back(vector<string>());
-				menu2[1].push_back("Перегляд товару");
-				menu2[1].push_back("Купити товар");*/
 
 			case 0: ob.addTovar(); break;
 			case 1: ob.viewAllTovar(); break;
@@ -305,14 +297,10 @@ public:
 	void Menu(int c, int q);
 	int Menu1(int c, int q);
 };
-//vector <string> menu;
-//vector <vector <string>> menu2;
 
 int code;
 int main()
 {
-//	SetConsoleCP(1251);
-///SetConsoleOutputCP(1251);
 
 	setlocale(LC_ALL,"Ukrainian");
 	menu.insert(menu.begin(), " Увiйти як aдмiнicтрaтoр ");
