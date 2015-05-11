@@ -1,4 +1,4 @@
-﻿Instruction for project
+﻿Instruction fоr project
 --
 !!! Don't delete files and folders in main Project!!!
 
