@@ -1,10 +1,11 @@
-﻿Project name name:
+﻿Project name: 15 puzzle problem
  
 --
 
 Author members:
-TODO
-
+Malakhovskyi Oleksandr
+Ornatovska Vita	
+Rymar Khrystyna
 --
 Academic Group: 
 СН-21
