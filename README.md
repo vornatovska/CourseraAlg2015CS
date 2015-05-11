@@ -1,9 +1,11 @@
-﻿Project name name:
+﻿Project name: 8 puzzle problem
  
 --
 
 Author members:
-TODO
+Malakhovskyi Oleksandr
+Ornatovska Vita	
+Rymar Khrystyna
 
 --
 Academic Group: 

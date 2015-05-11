@@ -1,10 +1,11 @@
-﻿Project name name:
- 
+﻿Project name: 15 puzzle problem
+
 --
 
 Author members:
-TODO
-
+Malakhovskyi Oleksandr
+Ornatovska Vita	
+Rymar Khrystyna
 --
 Academic Group: 
 СН-21
@@ -12,10 +13,9 @@ Academic Group:
 semester 4
 
 --
-
+JDK 1.8
 
 
 IDE
 Eclipse IDE
 
-https://www.eclipse.org/downloads/
