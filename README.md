@@ -1,4 +1,4 @@
-﻿Project name: 15 puzzle problem
+﻿Project name: 8 puzzle problem
  
 --
 
@@ -6,6 +6,7 @@ Author members:
 Malakhovskyi Oleksandr
 Ornatovska Vita	
 Rymar Khrystyna
+
 --
 Academic Group: 
 СН-21
