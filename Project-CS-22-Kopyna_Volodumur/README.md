@@ -1,10 +1,10 @@
 Project name:
 
-— Processing of the session results of the 2nd year students
+— Notepad
 
-Author members: Dobryvoda Nataliia
+Author members: Kopyna Volodumur
 
-— Academic Group: CN-21
+— Academic Group: CN-22
 
 semester 4
 
