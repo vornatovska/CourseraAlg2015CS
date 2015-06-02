@@ -45,7 +45,7 @@ CPP C++ Certified Professional Programmer
 --
 
 Course
-Theory of Algorithms (TA)
+Theory of Algorithms(TA)
 
 Course name:
 Algorithms, Part I
